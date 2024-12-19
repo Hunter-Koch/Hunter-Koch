@@ -1,6 +1,6 @@
-## Hi there 👋
+## Salutations 
 
-I am a computer science student with an interest in games and software engineering currently learning C. Im new to the field and looking foward to learning a lot. 
+I am a computer science student with an interest in games and software engineering currently learning C. Im new to the field and looking foward to learning a lot. 🦊
 <!--
 comment
 -->
