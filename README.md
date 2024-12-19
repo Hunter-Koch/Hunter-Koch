@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am a computer science student with an interest in games and software engineering. Im new to the field and looking foward to learning a lot. 
+<!--
+comment
+-->
+
 <!--
 **Hunter-Koch/Hunter-Koch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
